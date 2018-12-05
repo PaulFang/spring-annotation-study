@@ -1,0 +1,1 @@
+This demo module matched the video course 02-组件注册-@Configuration&@Bean给容器中注册组件

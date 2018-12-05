@@ -1,0 +1,1 @@
+This demo module matched the video course 03-组件注册-@ComponentScan-自动扫描组件&指定扫描规则

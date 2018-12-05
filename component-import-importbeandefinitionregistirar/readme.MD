@@ -1,0 +1,1 @@
+This demo module matched the video course 10-组件注册-@Import-使用ImportBeanDefinitionRegistrar
